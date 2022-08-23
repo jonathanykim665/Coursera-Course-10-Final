@@ -1,2 +1,0 @@
-test for git clone from github to local
-and vaise versa
